@@ -29,7 +29,7 @@ import project.application.planner.R;
 public class Map_Fragment extends Fragment {
 
     private GoogleMap map;
-    private GoogleMap map2;
+    private GoogleMap map23;
     private Marker marker;
     private View rootView;
     private ImageView btnPlanner,btnFood,btnOli,btnHotel,btnBank,btnHospital,btnPolice,btnCarCare;
