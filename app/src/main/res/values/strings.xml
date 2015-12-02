@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PLANNER</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="accident_title">แจ้งเหตุ</string>
+    <string name="map_title">เดินทาง</string>
+    <string name="search_title">ค้นหา</string>
+    <string name="title_activity_tab_listener_">TabListener_Activity</string>
+</resources>
